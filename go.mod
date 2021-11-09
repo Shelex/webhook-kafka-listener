@@ -1,4 +1,4 @@
-module github.com/Shelex/callbacks
+module github.com/Shelex/webhook-kafka-listener
 
 go 1.16
 
