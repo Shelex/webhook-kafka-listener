@@ -1,4 +1,4 @@
-# Checking out go windmill library with kafka
+# Checking out go watermill library with kafka
 
 Dead simple http listener of webhooks that produces messages to kafka
 
